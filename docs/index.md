@@ -12,7 +12,7 @@ hero:
 
 features:
   - title: English Immersion Ballet Education
-    details: Experience the unique combination of classical ballet training and English language immersion
+    details: Experience the  combination of classical ballet training and English language immersion
   - title: Professional Instruction
     details: Learn from an experienced instructor with an international teaching background
   - title: Age-Appropriate Curriculum

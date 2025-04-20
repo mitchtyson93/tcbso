@@ -1,85 +1,45 @@
-# Markdown Extension Examples
+---
+layout: doc
+title: Registration
+outline: [2, 3]
+---
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+# Registration Information
 
-## Syntax Highlighting
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-
-**Input**
-
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
+## Registration Period
 
 ::: info
-This is an info box.
+Registration for Fall classes will open on **May 1st, 2025**.
 :::
+
+## Important Dates
+
+- **Registration Opens**: May 1st, 2025
+- **Fall Semester**: August - December 2025
+- **Spring Semester**: January - May 2026
+
+## Registration Process
+
+1. Review our [Classes](/classes) page to determine the appropriate level for your child
+2. Complete the registration form (available May 1st)
+3. Submit the form along with payment information
+4. Receive confirmation of your child's placement
+
+## Early Registration Benefits
 
 ::: tip
-This is a tip.
+Students who register for the Fall before June 1st will receive a 10% discount.
 :::
 
-::: warning
-This is a warning.
-:::
+## Contact Information
 
-::: danger
-This is a dangerous warning.
-:::
+For any questions about registration, please contact us at:
 
-::: details
-This is a details block.
-:::
+- Email: [post@classicalballetschooloslo.no](mailto:post@classicalballetschooloslo.no)
 
-## More
+## Location
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+All classes are held at:
+Dansify Studio
+Eikenga 11
+0579 Oslo
