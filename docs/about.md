@@ -43,7 +43,7 @@ Jennifer is thrilled to welcome students to The Classical Ballet School of Oslo.
 ## Location
 
 All classes are held at:
-Dansify Studio,
+Dancify Studio,
 Eikenga 11,
 0579 Oslo
 
@@ -51,4 +51,4 @@ Eikenga 11,
 
 For more information about our programs or to schedule a visit, please contact us at:
 
-- Email: [post@classicalballetschooloslo.no](mailto:post@classicalballetschooloslo.no)
+- Email: [post@theclassicalballetschool.no](mailto:post@theclassicalballetschool.no)

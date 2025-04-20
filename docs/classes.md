@@ -78,6 +78,6 @@ Students are encouraged to enroll for both the Fall and Spring semester to take 
 ## Location
 
 All classes are held at:
-Dansify Studio,
+Dancify Studio,
 Eikenga 11,
 0579 Oslo

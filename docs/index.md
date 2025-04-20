@@ -7,7 +7,7 @@ hero:
   text: "Where Ballet Meets Language Learning"
   tagline: "International Ballet School With English Immersion Classes for All Genders. Currently Ages 4-9."
   image:
-    src: /assets/logo.png
+    src: /assets/download.png
     alt: The Classical Ballet School of Oslo Logo
 
 features:
@@ -57,4 +57,4 @@ Each program is designed to meet the developmental needs of its dancers while ma
 
 Registering your child at The Classical Ballet School of Oslo is more than just signing up for ballet classes—it's an investment in their artistic and educational development. We look forward to welcoming you to our studio and helping your child discover the joy of dance.
 
-_Classes are held at Dansify Studio, Eikenga 11, 0579 Oslo_
+_Classes are held at Dancify Studio, Eikenga 11, 0579 Oslo_
