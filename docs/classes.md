@@ -63,8 +63,12 @@ Each class builds upon the previous. Enrollment for the full academic year is en
 ::: info
 Our classes run in semesters that align with the Norwegian school year:
 
-- Fall Semester: August - December
-- Spring Semester: January - May
+- **Fall Semester**: August - December 2025
+  - Classes run from week 35 to week 50 with week 40 and 44 off.
+- **Spring Semester**: January - May 2026
+
+  - Classes run from week 3 to week 18 with week 8 and week 14 off.
+
   :::
 
 ## Registration

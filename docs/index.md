@@ -7,7 +7,7 @@ hero:
   text: "Where Ballet Meets Language Learning"
   tagline: "International Ballet School With English Immersion Classes for All Genders. Currently Ages 4-9."
   image:
-    src: /assets/download.png
+    src: /assets/purplebarleo.png
     alt: The Classical Ballet School of Oslo Logo
 
 features:
