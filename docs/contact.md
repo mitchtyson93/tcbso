@@ -18,3 +18,7 @@ Dansify Studio
 Eikenga 11
 0579 Oslo
 :::
+
+<div style="display: flex; justify-content: center; margin-top: 3rem;">
+    <img src="/assets/logo.png" alt="The Classical Ballet School of Oslo Logo" style="width: 200px; height: auto;" />
+</div>
