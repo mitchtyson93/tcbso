@@ -6,7 +6,19 @@ export default defineConfig({
   description: "The Classical Ballet School Of Oslo",
   appearance: false,
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-X6JD2JN5K6' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-X6JD2JN5K6');`
+    ]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
