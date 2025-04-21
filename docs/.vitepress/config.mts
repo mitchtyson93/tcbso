@@ -28,6 +28,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'instagram', link: 'https://www.instagram.com/theclassicalballetschoolofoslo/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/theclassicalballetschoolofoslo/' },
     ]
   }
 })
