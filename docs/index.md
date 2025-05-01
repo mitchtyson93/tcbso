@@ -9,6 +9,13 @@ hero:
   image:
     src: /assets/purplebarleo.png
     alt: The Classical Ballet School of Oslo Logo
+  actions:
+    - theme: brand
+      text: Register Now
+      link: /registration
+    - theme: alt
+      text: View Classes
+      link: /classes
 
 features:
   - title: English Immersion Ballet Education
@@ -24,6 +31,10 @@ features:
   - title: Inclusive Environment
     details: Welcoming classes for all genders, fostering confidence and artistic expression
 ---
+
+::: info
+Registration for Fall classes is now open! Use code **Mai25** for a 10% discount if you register before June 1st.
+:::
 
 ## Welcome to The Classical Ballet School of Oslo
 

@@ -6,10 +6,12 @@ outline: [2, 3]
 
 # Registration Information
 
-## Registration Period
+## Registration is Now Live!
 
 ::: info
-Registration for Fall classes will open on **May 1st, 2025**.
+Registration for Fall classes is now open! Click [here](https://cbo-vs3.icapire.net/) to register.
+
+Students who register for the Fall before June 1st will receive a 10% discount. Use discount code: **Mai25**
 :::
 
 ## Semester Tuitions
@@ -21,7 +23,6 @@ _*\*All Semesters are based on 14 weeks of classes*_
 
 ## Important Dates
 
-- **Registration Opens**: May 1st, 2025
 - **Fall Semester**: August - December 2025
   - Classes run from week 35 to week 50 with week 40 and 44 off.
 - **Spring Semester**: January - May 2026
@@ -30,15 +31,9 @@ _*\*All Semesters are based on 14 weeks of classes*_
 ## Registration Process
 
 1. Review our [Classes](/classes) page to determine the appropriate level for your child
-2. Complete the registration form (available May 1st)
-3. Submit the form along with payment information
+2. Click [here](https://cbo-vs3.icapire.net/) to access the registration portal
+3. Complete the registration
 4. Receive confirmation of your child's placement
-
-## Early Registration Benefits
-
-::: tip
-Students who register for the Fall before June 1st will receive a 10% discount.
-:::
 
 ## Contact Information
 
