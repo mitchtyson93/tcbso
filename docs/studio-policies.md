@@ -17,6 +17,24 @@ Eikenga 11,
 
 **Studio is located on the third floor, with elevator access.** Once inside, follow signs for Dancify. Classes are held in studio 3.
 
+<div class="image-grid">
+  <img src="/assets/IMG_1284.jpg" alt="Studio Entrance" />
+  <img src="/assets/IMG_1285.jpg" alt="Studio Interior" />
+</div>
+
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.image-grid img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
 ### Parking
 
 Free parking 4-10 pm, and on weekends in spaces marked with:
@@ -62,7 +80,7 @@ We appreciate your support in maintaining this English-speaking environment and 
 
 ### Attendance
 
-Consistent attendance is essential for a dancer’s growth, as each class builds upon the previous lesson. To ensure the best learning experience, dancers are encouraged to attend all classes.
+Consistent attendance is essential for a dancer's growth, as each class builds upon the previous lesson. To ensure the best learning experience, dancers are encouraged to attend all classes.
 
 - Classes will begin and end promptly at the designated times.
 - **Level 1 Students:** Dancers arriving more than 15 minutes late will be asked to sit out and observe, taking notes, to prevent injuries due to inadequate warm-up.
