@@ -33,7 +33,7 @@ features:
 ---
 
 ::: info
-Registration for Fall classes is now open! Use code **Mai25** for a 10% discount if you register before June 1st.
+Registration for Fall classes is now open!
 :::
 
 ## Welcome to The Classical Ballet School of Oslo

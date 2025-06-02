@@ -18,7 +18,7 @@ Taught entirely in English, this class not only nurtures a love for ballet but a
 
 To ensure individual attention and optimal learning, class size is limited to 12 students. Must have 5 students minimum to hold the class. Students must be potty trained.
 
-**Class is once per week and are offered on Tuesdays 16:00 - 16:45 or Thursdays from 16:15-17:00.**
+**Class is once per week on Tuesdays 16:00 - 16:45**
 
 ### Pre-Ballet (Ages 5-6)
 
@@ -30,7 +30,7 @@ All music used in class will be classical ballet music, helping students develop
 
 To ensure individual attention and optimal learning, class size is limited to 16 students. Must have 5 students minimum to hold the class.
 
-**Class is once per week and are offered Tuesdays 16:45-17:30 or Thursdays 17:00-17:45.**
+**Class is once per week on Tuesdays 16:45-17:30**
 
 ### Level 1 Ballet (Ages 7-8)
 

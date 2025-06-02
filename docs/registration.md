@@ -10,8 +10,6 @@ outline: [2, 3]
 
 ::: info
 Registration for Fall classes is now open! Click [here](https://cbo-vs3.icapire.net/) to register.
-
-Students who register for the Fall before June 1st will receive a 10% discount. Use discount code: **Mai25**
 :::
 
 ## Semester Tuitions
