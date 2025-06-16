@@ -57,10 +57,10 @@ We aim to create a space where children can develop a solid technical ballet fou
 
 We offer carefully structured programs for different age groups:
 
-- Creative Movement (Age 4)
-- Pre-Ballet (Ages 5-6)
-- Level 1 Ballet (Ages 7-8)
-- Level 1 Ballet (Age 9)
+- Creative Movement (Age 4: Children entering storebarnsavdeling or pre-school 1, at the age of 3 and turning 4 may enroll)
+- Pre-Ballet (Ages 5-6: Children already in storebarnsvdeling or pre-school 2 at the age of 4 turning 5, and students in the first grade at the age of 5 turning 6 may enroll)
+- Level 1 Ballet (Ages 7-8: Children in the second and third grade at the beginning of the school year at the age of 6 turning 7, and the age of 7 turning 8 may enroll)
+- Level 1 Ballet (Age 9: Children entering the 4th grade at the beginning of the school year at the age of 8 turning 9 may enroll)
 
 Each program is designed to meet the developmental needs of its dancers while maintaining high standards of classical ballet training.
 
