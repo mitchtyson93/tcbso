@@ -16,7 +16,7 @@ This engaging and imaginative class introduces young dancers to the joy of movem
 
 Taught entirely in English, this class not only nurtures a love for ballet but also enhances language development in a natural and immersive way. There will be a mix of music with and without lyrics, allowing students to sing along and develop their listening skills.Each class builds upon the previous and each semester builds upon the previous. Dancers are encouraged to enroll for the entire year for optimal growth and experience. By the end of the year, dancers will be able to follow simple instructions in English and gain independence in their movement, building confidence both in and out of the studio.
 
-To ensure individual attention and optimal learning, class size is limited to 12 students. Must have 5 students minimum to hold the class. Students must be potty trained.
+To ensure individual attention and optimal learning, class size is limited to 12 students. Must have 3 students minimum to hold the class. Students must be potty trained.
 
 **Class is once per week on Tuesdays 16:00 - 16:45**
 
@@ -28,7 +28,7 @@ This class is taught entirely in English, creating an immersive language-learnin
 
 All music used in class will be classical ballet music, helping students develop musicality, rhythm, and an appreciation for the rich tradition of ballet. .Each class builds upon the previous and each semester builds upon the previous. Dancers are encouraged to enroll for the entire year for optimal growth and experience. By the end of the year, dancers will gain confidence, independence, and a deeper understanding of both ballet technique and classroom etiquette.
 
-To ensure individual attention and optimal learning, class size is limited to 16 students. Must have 5 students minimum to hold the class.
+To ensure individual attention and optimal learning, class size is limited to 16 students. Must have 3 students minimum to hold the class.
 
 **Class is once per week on Tuesdays 16:45-17:30**
 
@@ -38,7 +38,7 @@ Level 1 Ballet marks the beginning of formal ballet training, introducing young 
 
 Taught entirely in English, this class also builds upon already established ballet vocabulary in French, deepening their understanding of the art form's rich tradition. All music used in class will be classical ballet music, helping dancers refine their rhythm and musical appreciation. In addition to physical development, students will strengthen their memory, pattern recognition, and ability to follow detailed instructions—skills that extend beyond the studio.
 
-To ensure individual attention and optimal learning, class size is limited to 18 students. Must have 5 students minimum to hold the class.
+To ensure individual attention and optimal learning, class size is limited to 18 students. Must have 3 students minimum to hold the class.
 
 Each class builds upon the previous. Enrollment for the full academic year is encouraged priority registration for the spring term will be offered to those enrolled in the fall.
 
@@ -52,7 +52,7 @@ Level 1 Ballet marks the beginning of formal ballet training, introducing young 
 
 Taught entirely in English, this class also builds upon already established ballet vocabulary in French, deepening their understanding of the art form's rich tradition. All music used in class will be classical ballet music, helping dancers refine their rhythm and musical appreciation. In addition to physical development, students will strengthen their memory, pattern recognition, and ability to follow detailed instructions—skills that extend beyond the studio.
 
-To ensure individual attention and optimal learning, class size is limited to 18 students. Must have 5 students minimum to hold the class.
+To ensure individual attention and optimal learning, class size is limited to 18 students. Must have 3 students minimum to hold the class.
 
 Each class builds upon the previous. Enrollment for the full academic year is encouraged, priority registration for the spring term will be offered to those enrolled in the fall.
 
