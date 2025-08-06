@@ -32,8 +32,12 @@ features:
     details: Welcoming classes for all genders, fostering confidence and artistic expression
 ---
 
-::: info
-Registration for Fall classes is now open!
+<div id="trial-classes" style="scroll-margin-top: 80px;"></div>
+
+::: tip 🎭 Trial Classes Available!
+Interested in seeing if our program is the right fit for your child? We offer trial classes for new students to experience our unique approach to ballet education before committing to a full semester. **Email to confirm a spot for one of our free trial classes during weeks 35 or 36!** We cannot wait to see you in the studio!
+
+[Contact Us](/contact) | [Learn More About Our Classes](/classes)
 :::
 
 ## Welcome to The Classical Ballet School of Oslo
