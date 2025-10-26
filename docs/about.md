@@ -47,6 +47,8 @@ Dancify Studio,
 Eikenga 11,
 0579 Oslo
 
+The Classical Ballet School of Oslo also offers classes at Oslo International School and Frogner International Preschool. Please note that enrollment at these schools is required to participate in classes at these locations.
+
 ## Contact Us
 
 For more information about our programs or to schedule a visit, please contact us at:
