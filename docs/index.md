@@ -11,11 +11,11 @@ hero:
     alt: The Classical Ballet School of Oslo Logo
   actions:
     - theme: brand
-      text: Contact Us
-      link: /contact
+      text: Register Now
+      link: /registration
     - theme: alt
-      text: Learn More
-      link: /about
+      text: View Classes
+      link: /classes
 
 features:
   - title: English Immersion Ballet Education
