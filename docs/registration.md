@@ -15,12 +15,12 @@ outline: [2, 3]
 **Creative Movement (Age 4)**
 
 - Thursdays, 16:30 - 17:15
-- January 18 - April 30, 2026
+- January 15 - April 30, 2026
 
 **Pre-Ballet (Ages 5-6)**
 
 - Thursdays, 17:15 - 18:00
-- January 18 - April 30, 2026
+- January 15 - April 30, 2026
 
 _\*No classes on Week 8 and Week 14 (February 19 & April 2)_
 
