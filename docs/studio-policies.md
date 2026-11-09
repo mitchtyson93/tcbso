@@ -10,47 +10,59 @@ Welcome to The Classical Ballet School of Oslo. Below you'll find important info
 
 ## Studio Location
 
-All classes are held at:
-Dancify Studio,
-Eikenga 11,
-0579 Oslo
+Our studio classes are held at [Studio 13, Trondheimsveien 135 (entrance on Sinsenveien), 0570 Oslo](https://www.google.com/maps/search/?api=1&query=Studio+13+Trondheimsveien+135+%28inngang+i+Sinsenveien%29+0570+Oslo).
 
-**Studio is located on the third floor, with elevator access.** Once inside, follow signs for Dancify. Classes are held in studio 3.
+### Directions
 
-<div class="image-grid">
-  <img src="/assets/IMG_1284.jpg" alt="Studio Entrance" />
-  <img src="/assets/IMG_1285.jpg" alt="Studio Interior" />
-</div>
-
-<style>
-.image-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  margin: 1rem 0;
-}
-.image-grid img {
-  width: 100%;
-  height: auto;
-}
-</style>
+Studio 13 is in Carl Berner, between Carl Berner Plass and Rosenhoff. Enter from Sinsenveien rather than Trondheimsveien.
 
 ### Parking
 
-Free parking 4-10 pm, and on weekends in spaces marked with:
+Local street parking is available, with up to one hour free.
 
-- Fiberworks
-- Hagen VVS
-- The Joint Office of Pipe Contractors
-- Kaph Contractor
-- Pioneer
+### Inside Studio 13
 
-Additional information found [here](https://dancify.no/parkering/)
+<div class="studio-gallery">
+  <figure>
+    <img src="/assets/studio13/studio.jpg" alt="Dance floor and mirrors at Studio 13" loading="lazy" />
+    <figcaption>Studio</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/studio13/studio3.jpg" alt="Mirrored dance room with windows at Studio 13" loading="lazy" />
+    <figcaption>Studio</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/studio13/lounge.jpg" alt="Lounge seating area at Studio 13" loading="lazy" />
+    <figcaption>Lounge</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/studio13/changingroom.jpg" alt="Changing room with lockers and coat hooks at Studio 13" loading="lazy" />
+    <figcaption>Changing room</figcaption>
+  </figure>
+</div>
 
-### Public Transportation
-
-- The studio is easily accessible by both T-Bane or bus.
-- By bike: conveninetly located just off the Ring 3 bike path.
+<style>
+.studio-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.studio-gallery figure {
+  margin: 0;
+}
+.studio-gallery img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.studio-gallery figcaption {
+  margin-top: 0.5rem;
+  color: var(--vp-c-text-2);
+}
+</style>
 
 ## Studio Policies
 
@@ -74,31 +86,27 @@ We appreciate your support in maintaining this English-speaking environment and 
 
 ### Dress Code
 
-- **Creative Dance & Pre-Ballet:** Dancers may wear light pink [Bloch leotard](https://ladanse.no/produkt/bloch-cl5405/) or a plain white T-shirt with black shorts. Bare legs and white ankle socks with pink or white ballet shoes are required. Hair must be pulled back out of the face. To minimize distractions, skirts and tutus are not permitted. So dancers and the teacher can see the working muscles of the students, tights are not permitted at this age. During colder months, a form-fitting sweater may be worn.
-- **Level 1 Ballet:** Dancers may wear light purple [Bloch leotard](https://ladanse.no/produkt/bloch-cl5405/) with skin-colored tights and matching ballet shoes (pink shoes for pink tights, nude shoes for nude tights) or a white T-shirt with black shorts with white socks and white ballet shoes. Longer hair must be secured in a ballet bun. A form-fitting sweater is permitted during colder months.
-- All uniforms can be purchased locally at La Danse or online from various vendors. La Danse has been notified of the uniform requirements for The Classical Ballet School of Oslo and they are happy to assist you.
+- **Creative Movement & Pre-Ballet:** Dancers may wear a leotard and tights or a plain white T-shirt with black shorts. Pink or black ballet shoes must be worn. Hair must be pulled back out of the face. To minimize distractions, skirts and tutus are not permitted. During colder months, a form-fitting sweater may be worn.
+- Dance attire can be purchased locally at La Danse or online from various vendors. La Danse has been notified of our attire  requirements for The Classical Ballet School of Oslo and they are happy to assist you.
 
 ### Attendance
 
 Consistent attendance is essential for a dancer's growth, as each class builds upon the previous lesson. To ensure the best learning experience, dancers are encouraged to attend all classes.
 
 - Classes will begin and end promptly at the designated times.
-- **Level 1 Students:** Dancers arriving more than 15 minutes late will be asked to sit out and observe, taking notes, to prevent injuries due to inadequate warm-up.
 
 ### Classroom Behavior
 
-- **Creative Dance & Pre-Ballet:** Parents or guardians must remain in the building or designate another adult to be responsible for their child in case of an emergency. If a student becomes disruptive, they may be asked to take a short break to compose themselves before rejoining the class.
-- **Level 1 Ballet:** Students displaying disruptive behavior may be asked to sit out and take notes. Parents/guardians will be notified of any behavioral issues. Repeated disruptions may result in dismissal from the course without financial reimbursement.
+- **Creative Movement & Pre-Ballet:** Parents or guardians must remain in the building or designate another adult to be responsible for their child in case of an emergency. If a student becomes disruptive, they may be asked to take a short break to compose themselves before rejoining the class.
 
 ### Food & Drink
 
-- **Creative Dance & Pre-Ballet:** Water bottles are not permitted in the studio. Dancers should hydrate before and after class.
-- **Level 1 Ballet:** Water bottles are allowed.
+- **Creative Movement & Pre-Ballet:** Water bottles are not permitted in the studio. Dancers should hydrate before and after class.
 - No food is permitted in the studio at any time.
 
 ### Payment
 
-Payment must be made before the first day of class. As each class follows a structured progression, dancers are encouraged to register for the full year. Dancers are permitted to drop and discontinue classes at any time however you will be financially responsible for completion of the term.
+Payment must be made before the first day of class. As each class follows a structured progression, dancers are encouraged to register for the full term. Dancers are permitted to drop and discontinue classes at any time however you will be financially responsible for completion of the term.
 
 ### Class Cancellations Due to Weather
 

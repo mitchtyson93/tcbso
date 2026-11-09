@@ -13,10 +13,7 @@ We're here to help! Please reach out to us with any questions about our programs
 ::: info
 **Email:** [post@theclassicalballetschool.no](mailto:post@theclassicalballetschool.no)
 
-**Studio Location:**
-Dansify Studio
-Eikenga 11
-0579 Oslo
+**Studio Location:** [Studio 13, Trondheimsveien 135 (entrance on Sinsenveien), 0570 Oslo](https://www.google.com/maps/search/?api=1&query=Studio+13+Trondheimsveien+135+%28inngang+i+Sinsenveien%29+0570+Oslo)
 :::
 
 <div style="display: flex; justify-content: center; margin-top: 3rem;">

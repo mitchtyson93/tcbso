@@ -10,7 +10,7 @@ Welcome to The Classical Ballet School of Oslo, where we combine the timeless ar
 
 ## Teaching Philosophy
 
-The Classical Ballet School of Oslo aims to create a space where children can develop a solid technical ballet foundation while also gaining valuable language skills. Currently offering classical ballet classes for children ages 4-9 in Oslo, with instruction conducted in English, the emphasis is not only on dance education but also about language exposure—offering children an immersive learning environment that nurtures both artistic and linguistic development. Our classes are relevant for any gender and designed to make sure that students receive the comprehensive development they need.
+The Classical Ballet School of Oslo aims to create a space where children can develop a solid technical ballet foundation while also gaining valuable language skills. Currently offering classical ballet classes for children ages 3-6 in Oslo, with instruction conducted in English, the emphasis is not only on dance education but also about language exposure—offering children an immersive learning environment that nurtures both artistic and linguistic development. Our classes are relevant for any gender and designed to make sure that students receive the comprehensive development they need.
 
 Classes at The Classical Ballet School of Oslo are designed to fill a niche within the Norwegian dance education landscape. While ballet training in Norway is of a high standard, opportunities for young children to receive classical ballet instruction in English remain limited. Given the increasing internationalization of Norway, bilingual education can be an asset to young learners, especially in a discipline like ballet, where many professional opportunities and terminologies are rooted in the English language. Importantly, The Oslo Classical Ballet School's intention is not to diminish the value of the Norwegian language but rather to provide an additional educational resource that enhances students' skills and broadens their opportunities for future artistic and cultural engagement.
 
@@ -42,12 +42,9 @@ Jennifer is thrilled to welcome students to The Classical Ballet School of Oslo.
 
 ## Location
 
-All classes are held at:
-Dancify Studio,
-Eikenga 11,
-0579 Oslo
+Our studio classes are held at [Studio 13, Trondheimsveien 135 (entrance on Sinsenveien), 0570 Oslo](https://www.google.com/maps/search/?api=1&query=Studio+13+Trondheimsveien+135+%28inngang+i+Sinsenveien%29+0570+Oslo).
 
-The Classical Ballet School of Oslo also offers classes at Oslo International School and Frogner International Preschool. Please note that enrollment at these schools is required to participate in classes at these locations.
+The Classical Ballet School of Oslo also offers classes at Frogner International Preschool. Please note that enrollment at this schools is required to participate in classes at this location.
 
 ## Contact Us
 

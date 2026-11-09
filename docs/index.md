@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "The Classical Ballet School of Oslo"
   text: "Where Ballet Meets Language Learning"
-  tagline: "International Ballet School With English Immersion Classes for All Genders. Currently Ages 4-9."
+  tagline: "International Ballet School With English Immersion Classes for All Genders. Currently Ages 3-6."
   image:
     src: /assets/purplebarleo.png
     alt: The Classical Ballet School of Oslo Logo
@@ -23,7 +23,7 @@ features:
   - title: Professional Instruction
     details: Learn from an experienced instructor with an international teaching background
   - title: Age-Appropriate Curriculum
-    details: Carefully designed programs for children ages 4-9, focusing on proper technique and development. Older age groups will be added in future years.
+    details: Carefully designed programs for children ages 3-6, focusing on proper technique and development.
   - title: Small Class Sizes
     details: Limited class sizes ensure personalized attention and optimal learning
   - title: Comprehensive Training
@@ -44,7 +44,7 @@ We aim to create a space where children can develop a solid technical ballet fou
 
 - Progressive training that builds upon skills semester by semester
 - Professional instruction from an experienced international educator
-- Age-appropriate curriculum for children ages 4-9
+- Age-appropriate curriculum for children ages 3-6
 - Small class sizes for personalized attention
 - Inclusive environment welcoming all genders
 - Emphasis on proper technique and artistic expression
@@ -55,4 +55,4 @@ Registering your child at The Classical Ballet School of Oslo is more than just 
 
 ### Locations
 
-Classes are held at Dancify Studio (Eikenga 11, 0579 Oslo). We also offer classes at Oslo International School and Frogner International Preschool for students enrolled at those schools.
+Our studio classes are held at [Studio 13, Trondheimsveien 135 (entrance on Sinsenveien), 0570 Oslo](https://www.google.com/maps/search/?api=1&query=Studio+13+Trondheimsveien+135+%28inngang+i+Sinsenveien%29+0570+Oslo). We also offer classes at Frogner International Preschool for students enrolled there.

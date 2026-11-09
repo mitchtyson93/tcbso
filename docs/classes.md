@@ -10,13 +10,13 @@ outline: [2, 3]
 Interested in hiring us for workshops or after school programs? Please reach out via email to discuss opportunities.
 :::
 
-## Spring 2026 Classes
+## Spring 2027 Classes
 
-We are excited to offer Creative Movement and Pre-Ballet classes for the Spring 2026 semester!
+We are excited to offer Creative Movement and Pre-Ballet classes for the Spring 2027 semester!
 
-### Creative Movement (Age 4)
+### Creative Movement (Born 2022 or 2023)
 
-**Class Dates:** Thursdays, 16:30 - 17:15, January 15 - April 30, 2026
+**Class Dates:** Saturdays, 10:45 - 11:30, January 16 - April 3, 2027
 
 This engaging and imaginative class introduces young dancers to the joy of movement while developing essential motor skills, coordination, and musical awareness. Through age appropriate playful exercises, storytelling, and props, students will explore the fundamentals of dance—space, rhythm, energy, and expression—while being gently introduced to classical ballet terminology.
 
@@ -24,9 +24,13 @@ Taught entirely in English, this class not only nurtures a love for ballet but a
 
 To ensure individual attention and optimal learning, class size is limited to 12 students. Must have 3 students minimum to hold the class. Students must be potty trained.
 
-### Pre-Ballet (Ages 5-6)
+**An observational class will be provided to families on the last class of the season!**
 
-**Class Dates:** Thursdays, 17:15 - 18:00, January 15 - April 30, 2026
+_No classes on February 27 or March 27, 2027._
+
+### Pre-Ballet (Born 2021)
+
+**Class Dates:** Saturdays, 10:00 - 10:45, January 16 - April 3, 2027
 
 Pre-Ballet is a joyful and structured introduction to ballet, designed to bridge the gap between Creative Movement and formal ballet training. Students will build on their foundational movement skills while being introduced to basic ballet positions, postures, and terminology in an engaging and age-appropriate way. They will also begin to develop spatial awareness, the ability to transition between exercises, and the discipline of a ballet class setting. Dancers will begin to work independently in the center of the room, across the floor and be introduced to the ballet barre.
 
@@ -36,23 +40,13 @@ All music used in class will be classical ballet music, helping students develop
 
 To ensure individual attention and optimal learning, class size is limited to 16 students. Must have 3 students minimum to hold the class.
 
-### Level 1 Ballet (Ages 7-9)
-
-**Eligibility**: Currently only available for students enrolled at Oslo International School.
-
-Level 1 Ballet marks the beginning of formal ballet training, introducing young dancers to the structure and discipline of a traditional ballet class. Students will focus on the fundamentals of classical ballet through barre work, center exercises, and across-the-floor movement. This progression builds strength, flexibility, coordination, and musicality while reinforcing proper posture and alignment.
-
-Taught entirely in English, this class also builds upon already established ballet vocabulary in French, deepening their understanding of the art form's rich tradition. All music used in class will be classical ballet music, helping dancers refine their rhythm and musical appreciation. In addition to physical development, students will strengthen their memory, pattern recognition, and ability to follow detailed instructions—skills that extend beyond the studio.
-
----
-
 **An observational class will be provided to families on the last class of the season!**
 
-_\*No classes on Week 8 and Week 14 (February 19 & April 2)_
+_No classes on February 27 or March 27, 2027._
 
 ## Additional Locations
 
-The Classical Ballet School of Oslo also offers classes at Oslo International School and Frogner International Preschool. Please note that enrollment at these schools is required to participate in classes at these locations.
+The Classical Ballet School of Oslo also offers classes at Frogner International Preschool. Please note that enrollment at this school is required to participate in classes at this locations.
 
 ## Contact Information
 
