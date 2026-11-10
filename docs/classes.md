@@ -16,7 +16,7 @@ We are excited to offer Creative Movement and Pre-Ballet classes for the Spring 
 
 ### Creative Movement (Born 2022 or 2023)
 
-**Class Dates:** Saturdays, 10:45 - 11:30, January 16 - April 3, 2027
+**Class Dates:** Saturdays, 10:45 - 11:30, January 9 - March 20, 2027
 
 This engaging and imaginative class introduces young dancers to the joy of movement while developing essential motor skills, coordination, and musical awareness. Through age appropriate playful exercises, storytelling, and props, students will explore the fundamentals of dance—space, rhythm, energy, and expression—while being gently introduced to classical ballet terminology.
 
@@ -26,11 +26,11 @@ To ensure individual attention and optimal learning, class size is limited to 12
 
 **An observational class will be provided to families on the last class of the season!**
 
-_No classes on February 27 or March 27, 2027._
+_No classes on February 27, 2027._
 
 ### Pre-Ballet (Born 2021)
 
-**Class Dates:** Saturdays, 10:00 - 10:45, January 16 - April 3, 2027
+**Class Dates:** Saturdays, 10:00 - 10:45, January 9 - March 20, 2027
 
 Pre-Ballet is a joyful and structured introduction to ballet, designed to bridge the gap between Creative Movement and formal ballet training. Students will build on their foundational movement skills while being introduced to basic ballet positions, postures, and terminology in an engaging and age-appropriate way. They will also begin to develop spatial awareness, the ability to transition between exercises, and the discipline of a ballet class setting. Dancers will begin to work independently in the center of the room, across the floor and be introduced to the ballet barre.
 
@@ -42,7 +42,7 @@ To ensure individual attention and optimal learning, class size is limited to 16
 
 **An observational class will be provided to families on the last class of the season!**
 
-_No classes on February 27 or March 27, 2027._
+_No classes on February 27, 2027._
 
 ## Additional Locations
 
