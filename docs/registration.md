@@ -14,7 +14,7 @@ outline: [2, 3]
 
 **Creative Movement (Born 2022 or 2023)**
 
-- Saturdays, 10:45 - 11:30
+- Saturdays, 09:00 - 09:45
 - January 9 - March 20, 2027
 
 **An observational class will be provided to families on the last class of the season!**
@@ -23,7 +23,7 @@ _No classes on February 27, 2027._
 
 **Pre-Ballet (Born 2021)**
 
-- Saturdays, 10:00 - 10:45
+- Saturdays, 09:45 - 10:30
 - January 9 - March 20, 2027
 
 **An observational class will be provided to families on the last class of the season!**
